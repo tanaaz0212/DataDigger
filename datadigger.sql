@@ -1,4 +1,3 @@
-DROP DATABASE IF EXISTS DataDigger;
 CREATE DATABASE DataDigger;
 USE DataDigger;
 
